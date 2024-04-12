@@ -1,0 +1,86 @@
+[
+        {
+           "id": 0,
+            "mdl": "200L HI-TECH GREY",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/sale_1.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "grey",
+            "pdf": [
+                "10 oynadan",
+                "qizil soatli",
+                "nimadirli"
+            ],
+            "prc": 250,
+            "disc": 20,
+            "dtl": "new",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "12.04.2024"
+        },
+    {
+           "id": 1,
+            "mdl": "250L HI-TECH Orange",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/sale_2.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "orange",
+            "pdf": [
+                "10 oynadan",
+                "yashil soatli",
+                "nimadirli"
+            ],
+            "prc": 300,
+            "disc": 20,
+            "dtl": "premium",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "12.04.2024"
+        },
+    {
+           "id": 2,
+            "mdl": "300L HI-TECH GREY",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/sale_3.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "white",
+            "pdf": [
+                "10 oynadan",
+                "oq soatli",
+                "nimadirli"
+            ],
+            "prc": 320,
+            "disc": 20,
+            "dtl": "new",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "12.04.2024"
+        },
+    {
+           "id": 3,
+            "mdl": "150L HI-TECH BLACK",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/sale_4.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "black",
+            "pdf": [
+                "10 oynadan",
+                "oq soatli",
+                "nimadirli"
+            ],
+            "prc": 450,
+            "disc": 20,
+            "dtl": "new",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "12.04.2024"
+        }
+]
