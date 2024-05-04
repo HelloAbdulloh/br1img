@@ -1,0 +1,213 @@
+[
+  [
+     {
+           "id": 0,
+            "mdl": "Brown Wood Classic 250L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_1.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "brown",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D ORQA FON MAVZU"
+            ],
+            "prc": 250,
+            "disc": 20,
+            "dtl": "new",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "04.05.2024"
+        },
+     {
+           "id": 1,
+            "mdl": "Black Magic Classic 250L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_2.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "black",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D ORQA FON MAVZU"
+            ],
+            "prc": 260,
+            "disc": 20,
+            "dtl": "classic",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "05.05.2024"
+        },
+     {
+           "id": 3,
+            "mdl": "White Magic Classic 250L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_3.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "white",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D ORQA FON MAVZU"
+            ],
+            "prc": 265,
+            "disc": 20,
+            "dtl": "classic",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "05.05.2024"
+        },
+     {
+           "id": 4,
+            "mdl": "Pale Yellow Classic 250L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_4.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "yellow",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D ORQA FON MAVZU"
+            ],
+            "prc": 250,
+            "disc": 20,
+            "dtl": "classic",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "5.05.2024"
+        },
+     {
+           "id": 5,
+            "mdl": "Black Magic Classic 200L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_5.jpg",
+            "dsn": [
+                100,
+                60,
+                35
+            ],
+            "clr": "black",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D MAVZU"
+            ],
+            "prc": 220,
+            "disc": 20,
+            "dtl": "new",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "05.05.2024"
+        },{
+           "id": 6,
+            "mdl": "Black Magic Classic 150L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_6.jpg",
+            "dsn": [
+                120,
+                40,
+                35
+            ],
+            "clr": "black",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D MAVZU"
+            ],
+            "prc": 200,
+            "disc": 20,
+            "dtl": "new",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "05.05.2024"
+        },
+    {
+           "id": 7,
+            "mdl": "Black Magic Classic 100L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_7.jpg",
+            "dsn": [
+                80,
+                40,
+                35
+            ],
+            "clr": "black",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D MAVZU"
+            ],
+            "prc": 180,
+            "disc": 20,
+            "dtl": "new",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "05.05.2024"
+        },
+    {
+           "id": 8,
+            "mdl": "Pera Yellow Classic 150L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_9.jpg",
+            "dsn": [
+                100,
+                40,
+                35
+            ],
+            "clr": "yellow",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D MAVZU"
+            ],
+            "prc": 220,
+            "disc": 20,
+            "dtl": "classic",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "05.05.2024"
+        },
+    {
+           "id": 9,
+            "mdl": "White Sea Hi-Tech 250L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_10.jpg",
+            "dsn": [
+                120,
+                60,
+                40
+            ],
+            "clr": "white",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D MAVZU"
+            ],
+            "prc": 250,
+            "disc": 20,
+            "dtl": "premium",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "05.05.2024"
+        },
+    {
+           "id": 10,
+            "mdl": "White Sea Hi-Tech 150L",
+            "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_11.jpg",
+            "dsn": [
+                120,
+                40,
+                35
+            ],
+            "clr": "white",
+            "pdf": [
+                "6 oynadan",
+                "RGB LED",
+                "3D MAVZU"
+            ],
+            "prc": 220,
+            "disc": 20,
+            "dtl": "premium",
+            "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "dt": "05.05.2024"
+        },
+  ]
+]
