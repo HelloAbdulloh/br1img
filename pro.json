@@ -208,10 +208,7 @@
             "dtl": "premium",
             "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "dt": "05.05.2024"
-        }
-  ],
-  [
-    {
+        },{
            "id": 11,
             "mdl": "White Sea Hi-Tech 100L",
             "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_12.jpg",
@@ -231,8 +228,7 @@
             "dtl": "premium",
             "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "dt": "05.05.2024"
-        },
-    {
+        },{
            "id": 12,
             "mdl": "White Sea Hi-Tech 60L",
             "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_13.jpg",
@@ -253,5 +249,6 @@
             "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "dt": "05.05.2024"
         },
-  ]
+  ],
+  []
 ]
