@@ -83,8 +83,10 @@
             "dtl": "classic",
             "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "dt": "5.05.2024"
-        },
-     {
+        }
+  ],
+  [
+         {
            "id": 5,
             "mdl": "Black Magic Classic 200L",
             "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_5.jpg",
@@ -104,7 +106,8 @@
             "dtl": "new",
             "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "dt": "05.05.2024"
-        },{
+        },
+    {
            "id": 6,
             "mdl": "Black Magic Classic 150L",
             "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_6.jpg",
@@ -145,7 +148,8 @@
             "dtl": "new",
             "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "dt": "05.05.2024"
-        },{
+        },
+    {
            "id": 8,
             "mdl": "Pera Yellow Classic 150L",
             "img": "https://raw.githubusercontent.com/HelloAbdulloh/br1img/main/pro_9.jpg",
